@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .box {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-box {
+    background-color: #e0e0e0;
+   
+  }
+  
+  .register-box {
+    background-color: #e0e0e0;
+  }
+
+  h3{
+    text-align: center;
+   
+  }
+
+.inputbox{
+  
+  border: none;
+  height: 25px;
+  width: 100%;
+}
+.submitbutton
+{
+  width: 100px;
+  border-radius: 5px;
+  background-color: darkgray;
+  border: none;
+  color: aqua;
+  text-align: center;
+  height: 30px;
+  text-align: center;
+
+
+}
+.submitbutton:hover{
+  cursor: pointer;
+}
+.sbt{
+  text-align: center;
+ 
+}

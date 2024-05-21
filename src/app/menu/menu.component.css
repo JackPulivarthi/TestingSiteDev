@@ -1,0 +1,23 @@
+section{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+}
+a{
+    flex-grow: 1;
+    padding: 10px;
+    text-decoration-line: none;
+    text-align: center;
+}
+a:hover{
+    background-color: lightblue;
+}
+
+img{
+    left: 0px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
